@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fulatcho.github.io/sitemap.html.gz
+Sitemap: https://fulatcho.github.io/app/sitemap.html.gz
+Sitemap: https://fulatcho.github.io/assets/sitemap.html.gz
+Sitemap: https://fulatcho.github.io/css/sitemap.html.gz
+Sitemap: https://fulatcho.github.io/data/sitemap.html.gz
+Sitemap: https://fulatcho.github.io/includes/sitemap.html.gz
+Sitemap: https://fulatcho.github.io/item/sitemap.html.gz
+Sitemap: https://fulatcho.github.io/src/sitemap.html.gz
